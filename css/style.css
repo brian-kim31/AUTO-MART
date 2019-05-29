@@ -1,0 +1,50 @@
+input[type=text] {
+    padding: 15px 150px;
+    border: 1px solid black;
+    margin: 10px;
+    border: 2px solid rgb(58, 128, 233);
+    border-radius: 15px;
+    background: #f1f1f1;
+}
+
+.button_link {
+    padding: 15px 50px;
+    background-color: rgb(35, 177, 212);
+    border-radius: 12px;
+    margin: 10px;
+}
+#description {
+    color: rgb(240, 232, 230);
+    width: 50%;
+    margin: auto;
+
+}
+
+#login {
+    color:  rgb(58, 128, 233);
+    margin: auto;
+      width: 50%;
+      padding: 5%;
+
+}
+
+#signup {
+    color:  rgb(58, 128, 233);
+    margin: auto;
+      width: 50%;
+      padding: 5%;
+}
+
+#button {
+margin: auto;
+width: 40%;
+}
+
+#title {
+    /* 	text-align: center; */
+      color:  rgb(58, 128, 233);
+      margin: auto;
+      width: 50%;
+      font-size: 2rem;
+      text-shadow:4px 1px black;
+    }
